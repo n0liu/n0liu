@@ -25,13 +25,8 @@ I am a front-end developer from China
 </p>
 <p>
   <code><a target="_blank" rel="noopener noreferrer" title="vue" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" style="max-width: 100%;"></a></code>
-<<<<<<< HEAD
   <code><a target="_blank" rel="noopener noreferrer" title="vite" href="https://cn.vitejs.dev"><img height="20" src="https://cn.vitejs.dev/logo.svg" alt="vite" data-canonical-src="https://cn.vitejs.dev/logo.svg" style="max-width: 100%;"></a></code>
   <code><a target="_blank" rel="noopener noreferrer" href="https://webpack.docschina.org/" title="webpack"><img height="20" src="https://webpack.docschina.org/icon_180x180.png" alt="webpack" style="max-width: 100%;" data-canonical-src="https://webpack.docschina.org/icon_180x180.png"></a></code>
-=======
-  <code><a target="_blank" rel="noopener noreferrer" title="vite" href="https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667"><img height="20" src="https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667" alt="vite" data-canonical-src="https://vitejs.dev/logo.svg" style="max-width: 100%;"></a></code>
-  <code><a target="_blank" rel="noopener noreferrer" href="https://webpack.docschina.org/" title="webpack"><img height="20" src="https://avatars.githubusercontent.com/u/2105791?s=48&v=4" alt="webpack" style="max-width: 100%;" data-canonical-src="https://avatars.githubusercontent.com/u/2105791?s=48&v=4"></a></code>
->>>>>>> 63a3f23b2c622544f60c836eea0941022f82ff83
   <code><a target="_blank" rel="noopener noreferrer" href="https://rollupjs.org" title="rollup"><img height="20" src="https://rollupjs.org/rollup-logo.svg" alt="rollup" style="max-width: 100%;" data-canonical-src="https://rollupjs.org/rollup-logo.svg"></a></code>
   <code><a target="_blank" rel="noopener noreferrer" title="git" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" style="max-width: 100%;"></a></code>
 </p>
