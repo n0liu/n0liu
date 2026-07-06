@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to meet you.</h1>
 
-| <a href="https://github.com/n0liu/github-readme-stats"><img align="center" src="./images/index.svg" alt="n0liu's github stats" /></a>| <a href="https://github.com/n0liu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n0liu&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/n0liu"><img align="center" src="./images/index.svg" alt="n0liu's github stats" /></a>| <a href="https://github.com/n0liu"><img align="center" src="./images/top-langs.svg" alt="n0liu's most used languages" /></a> |
 | ------------- | ------------- |
 
 I am a front-end developer from China

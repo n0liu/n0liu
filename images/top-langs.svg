@@ -1,0 +1,24 @@
+<svg width="300" height="170" viewBox="0 0 300 170" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="descId">
+  <title id="titleId">Most Used Languages</title>
+  <desc id="descId">TypeScript 31.82%, JavaScript 29.50%, Vue 24.96%, CSS 8.25%, SCSS 4.06%, HTML 1.35%</desc>
+  <style>
+    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #7957d5; }
+    .lang-name { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #0366d6; }
+    @supports(-moz-appearance: auto) { .header { font-size: 15.5px; } }
+  </style>
+  <rect x="0.5" y="0.5" rx="4.5" width="299" height="169" fill="#fffefe" stroke="#e4e2e2" stroke-opacity="0" />
+  <g transform="translate(25, 35)"><text class="header">Most Used Languages</text></g>
+  <mask id="rect-mask"><rect x="25" y="55" width="250" height="10" fill="white" rx="5"/></mask>
+    <rect mask="url(#rect-mask)" x="25.00" y="55" width="79.55" height="10" fill="#3178c6"/>
+  <rect mask="url(#rect-mask)" x="104.55" y="55" width="73.75" height="10" fill="#f1e05a"/>
+  <rect mask="url(#rect-mask)" x="178.30" y="55" width="62.40" height="10" fill="#41b883"/>
+  <rect mask="url(#rect-mask)" x="240.70" y="55" width="20.62" height="10" fill="#563d7c"/>
+  <rect mask="url(#rect-mask)" x="261.33" y="55" width="10.15" height="10" fill="#c6538c"/>
+  <rect mask="url(#rect-mask)" x="271.48" y="55" width="3.38" height="10" fill="#e34c26"/>
+    <circle cx="30" cy="86" r="5" fill="#3178c6"/><text x="42" y="90" class="lang-name">TypeScript 31.82%</text>
+  <circle cx="175" cy="86" r="5" fill="#f1e05a"/><text x="187" y="90" class="lang-name">JavaScript 29.50%</text>
+  <circle cx="30" cy="111" r="5" fill="#41b883"/><text x="42" y="115" class="lang-name">Vue 24.96%</text>
+  <circle cx="175" cy="111" r="5" fill="#563d7c"/><text x="187" y="115" class="lang-name">CSS 8.25%</text>
+  <circle cx="30" cy="136" r="5" fill="#c6538c"/><text x="42" y="140" class="lang-name">SCSS 4.06%</text>
+  <circle cx="175" cy="136" r="5" fill="#e34c26"/><text x="187" y="140" class="lang-name">HTML 1.35%</text>
+</svg>
