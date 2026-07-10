@@ -6,7 +6,7 @@
 I am a front-end developer from China
 
 - 🔭 I’m currently working in BeiJing
-- 🌱 I’m currently learning front-end engineering and microfront
+- 🌱 I’m currently learning AI-related development
 - ❤️ I like sleeping 🛌 and watching 📺 
 - 💬 if you have some questions ask me [here](https://github.com/n0liu/n0liu/issues).
 - 📚 [blogs](https://www.landuoduo.top)
