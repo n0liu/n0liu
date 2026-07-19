@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hi, I'm Lan</h1>
 
 <p align="center">
-  <a href="https://github.com/n0liu"><img src="https://komarev.com/ghpvc/?username=n0liu&label=Profile%20Views&color=8957e5&style=flat" alt="profile views" /></a>
-  <a href="https://github.com/n0liu?tab=followers"><img src="https://img.shields.io/github/followers/n0liu?label=Followers&color=8957e5&style=flat" alt="followers" /></a>
-  <img src="https://img.shields.io/badge/Focus-AI%20Engineering-8957e5?style=flat" alt="focus" />
+  <img src="https://img.shields.io/badge/Focus-Frontend%20%E2%86%92%20AI-8957e5?style=flat" alt="focus" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-8957e5?style=flat" alt="open source" />
+  <img src="https://img.shields.io/badge/Based%20in-Beijing%2C%20China-30363D?style=flat" alt="location" />
 </p>
 
 ---
@@ -67,8 +67,11 @@ I contribute to the open-source AI and web tooling I use every day, and I treat 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=n0liu&show_icons=true&rank_icon=github&hide_border=true&title_color=8957e5&icon_color=8957e5" alt="n0liu's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n0liu&layout=compact&hide_border=true&title_color=8957e5&langs_count=8" alt="n0liu's most used languages" />
+  <img src="https://img.shields.io/github/stars/n0liu?label=Total%20Stars&logo=github&logoColor=white&color=8957e5&style=for-the-badge" alt="total stars" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/n0liu?label=Followers&logo=github&logoColor=white&color=8957e5&style=for-the-badge" alt="followers" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=n0liu&label=Profile%20Views&color=8957e5&style=for-the-badge" alt="profile views" />
 </p>
 
 ## 👾 Contribution Graph
