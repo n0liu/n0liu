@@ -24,25 +24,6 @@ I contribute to the open-source AI and web tooling I use every day, and I treat 
 - Learning AI application development — LLM SDKs, agents, and the Model Context Protocol
 - Deepening TypeScript and modern web tooling
 
-## 🌱 Recent Open-Source Contributions
-
-<!-- CONTRIBUTIONS:START -->
-
-| Project | Contribution | Status |
-| --- | --- | --- |
-| [h3js/h3](https://github.com/h3js/h3/pull/1490) | Strip HEAD body when merging prepared headers into a mutable Response | 🔵 In review |
-| [vercel/ai](https://github.com/vercel/ai/pull/17460) | Scope UI message tool parts to the current step | 🔵 In review |
-| [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector/pull/1702) | Publish cli/package.json so --cli metadata lookup works from the installed package | 🔵 In review |
-| [lobehub/lobehub](https://github.com/lobehub/lobehub/pull/17293) | Strip null enum members from tool-call schemas for strict validators | 🔵 In review |
-| [BerriAI/litellm](https://github.com/BerriAI/litellm/pull/33503) | Guard against missing metrics in usage breakdown aggregation | 🔵 In review |
-| [Ebullioscopic/Atoll](https://github.com/Ebullioscopic/Atoll/pull/569) | Resume OSDUIHelper synchronously on quit | ✅ Merged |
-| [unjs/ofetch](https://github.com/unjs/ofetch/pull/607) | Treat null as JSON-serializable in isJSONSerializable | 🔵 In review |
-| [colinhacks/zod](https://github.com/colinhacks/zod/pull/6160) | Escape RFC 6901 special characters in $ref pointers | 🔵 In review |
-| [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo/pull/23331) | Add new japan fact | ✅ Merged |
-| [jd-opensource/nutui](https://github.com/jd-opensource/nutui/pull/2158) | Tabs数量多,滚动操作 doc 更新 | ✅ Merged |
-
-<!-- CONTRIBUTIONS:END -->
-
 ## ⚙️ Stack
 
 **Frontend**
