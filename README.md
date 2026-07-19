@@ -64,16 +64,6 @@ I contribute to the open-source AI and web tooling I use every day, and I treat 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/n0liu?label=Total%20Stars&logo=github&logoColor=white&color=8957e5&style=for-the-badge" alt="total stars" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/n0liu?label=Followers&logo=github&logoColor=white&color=8957e5&style=for-the-badge" alt="followers" />
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=n0liu&label=Profile%20Views&color=8957e5&style=for-the-badge" alt="profile views" />
-</p>
-
 ## 👾 Contribution Graph
 
 <picture>
