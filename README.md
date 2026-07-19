@@ -78,9 +78,3 @@ I contribute to the open-source AI and web tooling I use every day, and I treat 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/n0liu/n0liu/pacman-output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/n0liu/n0liu/pacman-output/pacman-contribution-graph.svg">
 </picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/n0liu/n0liu/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/n0liu/n0liu/output/github-snake.svg">
-  <img alt="Snake contribution graph" src="https://raw.githubusercontent.com/n0liu/n0liu/output/github-snake.svg">
-</picture>
